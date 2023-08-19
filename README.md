@@ -5,9 +5,9 @@ Projeto de uma landing page feito através do vídeo da Rafaella Ballerini utili
 
 
 Vídio da Rafa
- - [link](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [link](https://www.youtube.com/watch?v=llF6vD-RljE&t=805s&ab_channel=RafaellaBallerini)
 
  Repositório do Git Hub
- - [link](https://github.com/matiassingers/awesome-readme)
+ - [link](https://francisco-jose-vieira.github.io/Landing-Page/)
 
 **OBS** : Se o link do repositório não abrir mude de navegador
